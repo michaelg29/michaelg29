@@ -4,7 +4,7 @@
 
 I am a university student studying and pursuing Computer Engineering as a major. I have great interest in low level software development, graphical programming, and experimenting with data structures and applications.
 
-- 🔭 I’m currently working on developing a [3D graphics engine]() using C++ and OpenGL.
+- 🔭 I’m currently working on developing a [3D graphics engine](https://github.com/michaelg29/yt-tutorials/tree/master/CPP/OpenGL/OpenGLTutorial) using C++ and OpenGL.
 - 🌱 I’m currently learning about the specifics of number representation in hopes of creating a BigInteger library in C and C++.
 - 📫 How to reach me: michaelgrieco27 **at** gmail **dot** com
 - 😄 Pronouns: he/him
