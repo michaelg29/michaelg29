@@ -6,7 +6,7 @@ I am a university student studying and pursuing Computer Engineering as a major.
 
 - 🔭 I’m currently working on developing a [3D graphics engine](https://github.com/michaelg29/yt-tutorials/tree/master/CPP/OpenGL/OpenGLTutorial) using C++ and OpenGL.
 - 🌱 I’m currently learning about different encryption and hashing algorithms in hopes of creating a command line password manager.
-- 📫 How to reach me: michaelg27 **at** gmail **dot** com
+- 📫 How to reach me: michaelg27 **at** pm **dot** me
 
 #### Links
 - I have a [YouTube Channel](https://youtube.com/michaelgrieco) where I create various tutorials on what I am interested in or learning at the moment.
